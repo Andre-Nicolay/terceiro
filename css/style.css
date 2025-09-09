@@ -1,0 +1,20 @@
+body {
+    background-color: gray;
+}
+
+.bloco {
+    color: black;
+    display: block;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(255, 81, 0);
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+    margin-left: 750px;
+    border-radius: 5px;
+}

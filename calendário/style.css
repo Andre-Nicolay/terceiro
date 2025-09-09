@@ -1,0 +1,33 @@
+table {
+    width: 40%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+th,td {
+    border: 1px solid #333;
+    padding: 10px;
+}
+
+th {
+    background-color: green;
+}
+
+h2,h3 {
+    text-align: center;
+}
+
+ul {
+    width: 35%;
+    margin: auto;
+}
+
+.rs {
+    background: #156110;
+    background: linear-gradient(90deg, rgba(21, 97, 16, 1) 0%, rgba(235, 28, 28, 1) 50%, rgba(250, 226, 12, 1) 100%);
+}
+
+.brasil {
+    background: #156110;
+    background: linear-gradient(90deg, rgba(21, 97, 16, 1) 22%, rgba(228, 240, 12, 1) 37%, rgba(56, 28, 235, 1) 50%, rgba(228, 240, 12, 1) 66%, rgba(21, 97, 16, 1) 77%);
+}
